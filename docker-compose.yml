@@ -1,0 +1,7 @@
+services:
+  bot:
+    build: .
+    environment:
+      - TOKEN=${TOKEN}
+    ports:
+      - "8443:8443"
