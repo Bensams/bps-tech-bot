@@ -18,8 +18,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Hi, welcome to BPS Tech Solution Bot!\n\n"
         "My developer is just a 2nd-year college student pursuing a course in Information Technology. "
         "You can support him by donating to his PayPal or GCash account below:\n\n"
-        "**PayPal**: [Test]\n"
-        "**GCash**: [Test]\n\n"
+        "**PayPal**: [Your PayPal Link or Email]\n"
+        "**GCash**: [Your GCash Number]\n\n"
         "Thank you for your support! 😊"
     )
 
